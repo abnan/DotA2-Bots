@@ -1,2 +1,2 @@
 # DotA2-Bots
-Initial commit
+DotA2 AI Bot scripts
